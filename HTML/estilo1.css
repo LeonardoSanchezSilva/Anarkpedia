@@ -4,13 +4,13 @@
     padding: 10px 20px;
 }
 h1{
-    width: 0px;
     background-color: aquamarine;
-    padding-block: 0%;
+    float: left;
+    margin-left: 0%;
 }
 h2{
-    width: 0%;
-    padding-block: 0%;
+    background-color: antiquewhite;
     font-size: 50px;
-    padding-right: 260px;
+    float: right;
+
 }
