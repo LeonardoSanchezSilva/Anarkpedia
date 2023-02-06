@@ -1,16 +1,22 @@
-#body{
-    width: 100;
-    margin: auto;
-    padding: 10px 20px;
+*{
+    text-decoration: none;
 }
-h1{
-    background-color: aquamarine;
+body{
+    width: 960px;
+    background-color: rgb(159, 140, 177);
+}
+img{
     float: left;
-    margin-left: 0%;
+    width: 130px;
 }
-h2{
-    background-color: antiquewhite;
-    font-size: 50px;
+body h2{
     float: right;
-
+    padding-right: 630px;
+    font-size: 36px;
+}
+a:hover{
+    text-decoration: underline;
+}
+article{
+    
 }
