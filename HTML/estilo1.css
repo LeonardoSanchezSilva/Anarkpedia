@@ -1,19 +1,51 @@
 *{
     text-decoration: none;
 }
-body{
+.linha{
     width: 960px;
-    background-color: rgb(159, 140, 177);
+    margin: 0 auto;
+    overflow: auto;
+    padding: 5px 0;
 }
-img{
+.coluna{
+    padding: 0 10px;
     float: left;
-    width: 130px;
 }
-body h2{
-    float: right;
-    padding-right: 630px;
-    font-size: 36px;
+.col1{
+    width: 60px;
+}   
+.col2{
+    width: 140px;
 }
-a:hover{
-    text-decoration: underline;
+.col3{
+    width: 220px;
+    font-size: 50px;
+}
+.col4{
+    width: 300px;
+}
+.col5{
+    width: 380px;
+}
+.col6{
+    width: 460px;
+}
+.col7{
+    width: 540px;
+}
+.col8{
+    width: 620px;
+    font-size: 20px;
+}
+.col9{
+    width: 700px;
+}
+.col10{
+    width: 780px;
+}
+.col11{
+    width: 860px;
+}
+.col12{
+    width: 940x;
 }
