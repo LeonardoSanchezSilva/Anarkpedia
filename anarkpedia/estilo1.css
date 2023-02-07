@@ -13,6 +13,7 @@
 #photo{
     grid-area: photo;
     padding: 15px;
+    /* foto dando problema (quebrada. ver sobre FLEXBOX */
 }
 #header{
     grid-area: header;
